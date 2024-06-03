@@ -1,0 +1,38 @@
+```
+7D48: Opponent Pokemon's HP
+7D68: Player Pokemon's HP
+
+7DA6: Wild/Trainer Pokemon's species
+7DA7: Wild/Trainer Pokemon's Level
+
+7DA2: Player's Base Power of selected attack
+7DA3: Player's Accuracy of selected attack
+7DA4: Player's Max PP of sleected attack
+7DA5: Player's Type of selected attack
+7DA6: Player's Effect of selected attack
+7DA7: Player's chance of effect of selected attack
+
+7D7E - Current PP of first move
+7D7F - Current PP of second move
+7D80 - Current PP of third move
+7D81 - Current PP of fourth move
+
+60D0 - Poke Ball
+60D1 - Great Ball
+60D2 - Ultra Ball
+60D3 - Master Ball
+60D4 - Potion
+60D5 - Super Potion
+60D6 - Hyper Potion
+60D7 - Max Potion
+60E1 - Rare Candy
+
+60F2 - HM01 (Cut)
+60F3 - HM02 (Fly)
+60F4 - HM03 (Surf)
+60F5 - HM04 (Strength)
+60F6 - HM05 (Flash)
+60F7 - TM01 (Focus Punch)
+(you can probably figure out the TMs in-between)
+611E - TM40 (Psychic 2)
+```
